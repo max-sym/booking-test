@@ -1,0 +1,12 @@
+@import "https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@400;700&display=swap');
+
+html, body {
+	font-family: 'Roboto', sans-serif;
+	height: 100%;
+	scroll-behavior: smooth;
+}
+
+.font-title {
+	font-family: 'Lobster', cursive;
+}
