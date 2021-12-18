@@ -59,6 +59,9 @@ To view the project you can open `http://localhost:8000`.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
 
----
+## Contributors
 
-Made with ♥ by João Pedro Schmitz
+Made with ♥ by:
+
+- João Pedro Schmitz (jpedroschmitz/gatsby-starter-ts)
+- Maksym Chuhcmai (max-sym/booking-test)

@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-ts",
-  "description": "A TypeScript starter for Gatsby that includes all you need to build amazing projects",
+  "name": "booking-test",
+  "description": "A Hotel Booking Form based on João Pedro Schmitz's Gatsby starter",
   "version": "1.0.0",
   "private": true,
   "author": "João Pedro Schmitz <hey@joaopedro.dev> (https://joaopedro.dev)",
